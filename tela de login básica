@@ -43,5 +43,8 @@ meu primeiro repositorio, com apenas 2 dias de estudo em fornt end
             </div>
         </for>
     </main>
+        <script>
+        window.alert ('um momento...')
+    </script>
 </body>
 </html>
